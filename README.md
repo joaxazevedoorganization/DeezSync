@@ -1,0 +1,4 @@
+DeezSync
+========
+
+Sync do deezer
